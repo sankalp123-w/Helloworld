@@ -1,7 +1,8 @@
 #include<iostream>
+using namespace std;
 int main()
 {
-  cout<<"Hekllo world";
+  cout<<"Hello world";
   return 0;
- }
+}
  
